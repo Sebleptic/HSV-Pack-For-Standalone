@@ -10,7 +10,7 @@ The installation is very simple:
 
 1. Grab the pack for your version and extract the .zip file.
 2. Go into the folder and copy all of the contents.
-3. Navigate to your Beat Saber game folder and put it in UserData\HitScoreVisualizer.
+3. Go to https://mbf.bsquest.xyz/ and connect to your headset, then paste them into MBF for import. If that doesn't work, drag the contents into MBF.
 4. Enjoy!
 
 > [!IMPORTANT]
